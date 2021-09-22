@@ -1,2 +1,2 @@
-# bscnrb380216
+# My First WebApp test using python
 Python project
