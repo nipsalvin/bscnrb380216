@@ -1,2 +1,2 @@
-# My First WebApp test using python
-Python project
+# Python project
+My First WebApp test using python
